@@ -1,0 +1,36 @@
+Villani, Cedric|mathematics|Birth of a Theorem|Trade paperback|234
+Sussman, Gerald|computer_science|Structure & Interpretation of Computer Programs|Hardcover|240
+Eraly, Abraham|history|Age of Wrath, The|Hardcover|238
+Kafka, Frank|fiction|Trial, The|Paperback|198
+Pratt, John|data_science|Statistical Decision Theory'|Trade paperback|236
+Nisbet, Robert|data_science|Data Mining Handbook|Hardcover|242
+Wells, H. G.|fiction|New Machiavelli, The|Mass market paperback|180
+Heisenberg, Werner|science|Physics & Philosophy|Mass market paperback|197
+Oram, Andy|computer_science|Making Software|Mass market paperback|232
+Tao, Terence|mathematics|Analysis, Vol I|Trade paperback|248
+Conway, Drew|data_science|Machine Learning for Hackers|Mass market paperback|233
+Silver, Nate|data_science|Signal and the Noise, The|Hardcover|233
+McKinney, Wes|data_science|Python for Data Analysis|Hardcover|233
+Cormen, Thomas|computer_science|Introduction to Algorithms|Graphic|234
+Deb, Siddhartha|nonfiction|Beautiful and the Damned, The|Mass market paperback|198
+Camus, Albert|fiction|Outsider, The|Mass market paperback|198
+Doyle, Arthur Conan|fiction|Complete Sherlock Holmes, The - Vol I|Hardcover|176
+Doyle, Arthur Conan|fiction|Complete Sherlock Holmes, The - Vol II|Hardcover|176
+Smith, Adam|economics|Wealth of Nations, The|Trade paperback|175
+Follett, Ken|fiction|Pillars of the Earth, The|Trade paperback|176
+Hitler, Adolf|nonfiction|Mein Kampf|Hardcover|212
+Capra, Fritjof|science|Tao of Physics, The|Hardcover|179
+Feynman, Richard|science|Surely You're Joking Mr Feynman|Hardcover|198
+Hemingway, Ernest|fiction|Farewell to Arms, A|Trade paperback|179
+Forsyth, Frederick|fiction|Veteran, The|Trade paperback|177
+Archer, Jeffery|fiction|False Impressions|Mass market paperback|177
+Pausch, Randy|nonfiction|Last Lecture, The|Trade paperback|197
+Rand, Ayn|philosophy|Return of the Primitive|Mass market paperback|202
+Crichton, Michael|fiction|Jurassic Park|Hardcover|174
+Steinbeck, John|nonfiction|Russian Journal, A|Trade paperback|196
+Poe, Edgar Allen|fiction|Tales of Mystery and Imagination|Mass market paperback|172
+Dubner, Stephen|economics|Freakonomics|Hardcover|197
+Capra, Fritjof|science|Hidden Connections, The|Trade paperback|197
+Durant, Will|philosophy|Story of Philosophy, The|Paperback|170
+Deshpande, P L|fiction|Asami Asami|Trade paperback|205
+Steinbeck, John|fiction|Journal of a Novel|Mass market paperback|196

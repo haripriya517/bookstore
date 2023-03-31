@@ -1,0 +1,5 @@
+Villani, Cedric|mathematics|Birth of a Theorem|Trade paperback|234
+Sussman, Gerald|computer_science|Structure & Interpretation of Computer Programs|Hardcover|240
+Eraly, Abraham|history|Age of Wrath, The|Hardcover|238
+Kafka, Frank|fiction|Trial, The|Paperback|198
+
